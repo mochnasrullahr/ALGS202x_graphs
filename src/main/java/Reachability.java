@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Reachability {
-    private static int reach(ArrayList<Integer>[] adj, int x, int y) {
+    static int reach(ArrayList<Integer>[] adj, int x, int y) {
         //write your code here
         return 0;
     }

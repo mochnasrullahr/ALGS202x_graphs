@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ConnectedComponents {
-    private static int numberOfComponents(ArrayList<Integer>[] adj) {
+    public static int numberOfComponents(ArrayList<Integer>[] adj) {
         int result = 0;
         //write your code here
         return result;
